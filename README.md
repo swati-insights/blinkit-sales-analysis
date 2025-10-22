@@ -24,14 +24,10 @@ To understand Blinkit’s sales dynamics and identify which product categories, 
 blinkit-sales-analysis/
 │
 ├── data/
-│ ├── blinkit_sales_raw.xlsx
-│ └── blinkit_sales_cleaned.xlsx
+│ └── blinkit.xlsx
 │
 ├── dashboard/
-│ └── Blinkit_Sales_Analysis.pbix
-│
-├── reports/
-│ └── Blinkit_Sales_Report.pdf
+│ └── BLINKIT.SHALU.pbix
 │
 ├── images/
 │ └── blinkit_dashboard_preview.png
